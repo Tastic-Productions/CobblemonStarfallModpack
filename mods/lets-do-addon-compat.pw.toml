@@ -1,0 +1,16 @@
+filename = 'letsdocompat-fabric-2.3.1.jar'
+name = "[Let's Do Addon] Compat"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b2487292e98a73d3e148a94022b7259902581cd5a18d25b0e451183d11fd51ce6fab97f735eef188cfb8430746d6e6147bf7c56b8a9b214a18cb5cb46f47b38f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FNi5IMiX/versions/xixYFQOT/letsdocompat-fabric-2.3.1.jar'
+
+[update.modrinth]
+mod-id = 'FNi5IMiX'
+version = 'xixYFQOT'

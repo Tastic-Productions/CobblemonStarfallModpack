@@ -1,0 +1,16 @@
+filename = 'Camerapture-1.10.8+mc1.21.1-fabric.jar'
+name = 'Camerapture'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8476f78b5b90a6cea156f71f3bee2500996e147b54c07ae52a9fbe7ca368f725cadba9a6f817bd95d988426fca87b441e9ce0787aea1b29b5910f8b3b4b72134'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9dzLWnmZ/versions/EoCccWQx/Camerapture-1.10.8%2Bmc1.21.1-fabric.jar'
+
+[update.modrinth]
+mod-id = '9dzLWnmZ'
+version = 'EoCccWQx'

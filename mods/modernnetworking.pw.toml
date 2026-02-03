@@ -1,0 +1,16 @@
+filename = 'modernnetworking-fabric-1.2.8+1.21.1.jar'
+name = 'Modern Networking'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9a699a2674cedd7afb27f6e452224825d4cc1d42fd0c5ae6de225dd6c5141884cbfb25caf7bc7bac5d919f4658fcccc11bfb8429a73c66391ef28c6601363f1f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yMou0v20/versions/hUPv5DQ5/modernnetworking-fabric-1.2.8%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'yMou0v20'
+version = 'hUPv5DQ5'

@@ -1,0 +1,16 @@
+filename = 'effecttimerplus-fabric-2.2.7+1.21.jar'
+name = 'Effect Timer Plus'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3ea646ae28b3221439a8fdaa2eff7d787d0590e72292a8aad3512fa809bee090758de4970e423c741e2ae8cc3ef34dfd1b5730d4d94fbd4f42d4879c645b47e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JIUF2Wb5/versions/kcCaYoKo/effecttimerplus-fabric-2.2.7%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'JIUF2Wb5'
+version = 'kcCaYoKo'

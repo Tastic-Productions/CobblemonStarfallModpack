@@ -1,0 +1,16 @@
+filename = 'trims-expanded-1.4.1.jar'
+name = 'Trims Expanded'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1ca87b734a9621b6dd555a3f38f4e145b0cfb1b3e78f16a4ecf7411ec5172172d2f349a76f6f449c2cb64ee3580808413925e4238d493a7adeab574b7a1b8005'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e05g5n8a/versions/jHFN6uyo/trims-expanded-1.4.1.jar'
+
+[update.modrinth]
+mod-id = 'e05g5n8a'
+version = 'jHFN6uyo'

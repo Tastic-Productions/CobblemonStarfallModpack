@@ -1,0 +1,16 @@
+filename = 'CobblemonTrialsEdition-fabric-1.1.0.jar'
+name = 'Cobblemon Trials Edition'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8e2e4a176f21f3544489d50960a0ee6a767e4464fadc226f076c3a01bf67331f106fb468ac376d9b0af96035bf13d0bf945cff7765f249e5ab2319376ad667a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oH4pigcS/versions/4H5Rf0u5/CobblemonTrialsEdition-fabric-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'oH4pigcS'
+version = '4H5Rf0u5'

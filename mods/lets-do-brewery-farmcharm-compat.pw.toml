@@ -1,0 +1,16 @@
+filename = 'letsdo-brewery-fabric-2.1.6.jar'
+name = "[Let's Do] Brewery - Farm&Charm Compat"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a8b4eff80264273c80ada31e69bf0c69de2c1f1e211f0b31c64a4db98f13977e1a1f843a0341add3730c7a469d2d6badc0d2c8b6a44553924251b617b1d398ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b7NV2plI/versions/kc5adxeY/letsdo-brewery-fabric-2.1.6.jar'
+
+[update.modrinth]
+mod-id = 'b7NV2plI'
+version = 'kc5adxeY'

@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cobblemon"
+	group: ""
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "0C4F9C88B0353B57"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

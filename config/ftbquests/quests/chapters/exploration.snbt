@@ -1,0 +1,39 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exploration"
+	group: ""
+	icon: {
+		components: {
+			"minecraft:map_id": 0
+		}
+		id: "minecraft:filled_map"
+	}
+	id: "6BE54EEB97620D1E"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		dependency_requirement: "all_started"
+		icon: {
+			id: "vc_gliders:paraglider_wood"
+		}
+		id: "4C27766BA5AAFF5B"
+		rewards: [{
+			count: 3
+			id: "0CEEE984747927FC"
+			item: {
+				count: 1
+				id: "vc_gliders:reinforced_paper_iron"
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "6BAB6950ECDA5CC3"
+			item: { count: 1, id: "vc_gliders:paraglider_wood" }
+			only_from_crafting: false
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

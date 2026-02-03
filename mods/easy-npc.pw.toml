@@ -1,0 +1,16 @@
+filename = 'easy_npc_bundle-fabric-1.21.1-6.7.1.jar'
+name = 'Easy NPC'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bce5c40f8d4b67e65be1ac37a108d988d2c4394d4a170b908a5e4135c197603e63f905021dceb626269811aea5b8e3f533df5f2f826e72a1e954ea7984eedea0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CgGEe1h3/versions/o43eudvY/easy_npc_bundle-fabric-1.21.1-6.7.1.jar'
+
+[update.modrinth]
+mod-id = 'CgGEe1h3'
+version = 'o43eudvY'

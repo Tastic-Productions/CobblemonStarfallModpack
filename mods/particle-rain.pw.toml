@@ -1,0 +1,16 @@
+filename = 'particlerain-4.0.0-beta.5+1.21.1-fabric.jar'
+name = 'Particle Rain'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2582e2678095a910c2591451537e29dff5d6e02bc36b607ceb495e94fe722528e17c9404b272c3192d5b975101951036792a624a5101f5794fc7712ce0a1fbf3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nrikgvxm/versions/UrZSj6yQ/particlerain-4.0.0-beta.5%2B1.21.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nrikgvxm'
+version = 'UrZSj6yQ'

@@ -1,0 +1,16 @@
+filename = 'streamotes-1.2.14+1.21.jar'
+name = 'Streamotes: Streamer Emotes'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcfeab09b7e06ca4d699d127b152fe8f5c290e626e67bb78978266e5d94041ac7bf71d07c20a64757e84a1b3067e5322a2ac82536e4ec06662e2a21f8173188d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IAJz3K09/versions/84VZ1Mf0/streamotes-1.2.14%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'IAJz3K09'
+version = '84VZ1Mf0'

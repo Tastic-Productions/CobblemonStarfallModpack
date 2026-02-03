@@ -1,0 +1,16 @@
+filename = 'cornexpansion-fabric-1.2.1.jar'
+name = "[Let's Do Addon] Corn Expansion"
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '90d48ceca40f0dbfc26bd6127ec046991823a5f293bcf5bf8e1d4f880358f99e9ad4b7c2b88db46830ac81229ae1845291efed96aba365cdce15b076e2ca909e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/20p2kirx/versions/JSKxnPhT/cornexpansion-fabric-1.2.1.jar'
+
+[update.modrinth]
+mod-id = '20p2kirx'
+version = 'JSKxnPhT'
