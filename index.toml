@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "5305dd84e36471a8213a09a9f1c66a031be31f311f735238192d870729599541"
+metafile = true
