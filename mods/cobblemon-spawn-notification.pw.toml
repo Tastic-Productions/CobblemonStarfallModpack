@@ -1,6 +1,6 @@
 name = "Cobblemon Spawn Notification"
 filename = "spawnnotification-fabric-1.7.1-2.2.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LPuJjiQz/versions/45lZSWQg/spawnnotification-fabric-1.7.1-2.2.2.jar"
