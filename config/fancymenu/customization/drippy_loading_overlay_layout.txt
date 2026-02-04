@@ -3,24 +3,24 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1769154172140
+  last_edited_time = 1770167858513
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:71b1f69d-08b2-4a00-adc1-046ec012a6ee-1769154083839] = [groups:][instances:]
+  [loading_requirement_container_meta:7d1b457d-eab7-4e9e-ac79-26615f5be240-1770167798813] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:web]https://kappa.lol/w384mf
+  image_path = [source:web]https://kappa.lol/zweGGH
   slide = false
   repeat_texture = false
   parallax = false
   parallax_intensity = 0.02
   invert_parallax = false
   restart_animated_on_menu_load = false
-  instance_identifier = f7f132cf-9b52-4899-b2f1-35c607db8678-1769154129469
+  instance_identifier = 9991f3be-dc8c-4de3-8ffa-51453786aab8-1770167813622
   background_type = image
 }
 
@@ -44,15 +44,15 @@ layout_action_executable_blocks {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = a1fe6b95-516e-4efd-9222-db2a30670643-1769154083839
-  [executable_block:a1fe6b95-516e-4efd-9222-db2a30670643-1769154083839][type:generic] = [executables:]
+  button_element_executable_block_identifier = b3040b6d-e817-4d60-aa2d-179617a5ee15-1770167798814
+  [executable_block:b3040b6d-e817-4d60-aa2d-179617a5ee15-1770167798814][type:generic] = [executables:]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
-  widget_active_state_requirement_container_identifier = e11b802a-5cd8-44e6-9a41-b14e7d21a108-1769154083839
-  [loading_requirement_container_meta:e11b802a-5cd8-44e6-9a41-b14e7d21a108-1769154083839] = [groups:][instances:]
+  widget_active_state_requirement_container_identifier = 6bcbcc62-548e-486b-b81b-da63f9a9571b-1770167798814
+  [loading_requirement_container_meta:6bcbcc62-548e-486b-b81b-da63f9a9571b-1770167798814] = [groups:][instances:]
   is_template = false
   template_apply_width = false
   template_apply_height = false
@@ -86,8 +86,8 @@ vanilla_button {
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = 6c0f8330-de14-4db5-8844-e84617535665-1769154083839
-  [loading_requirement_container_meta:6c0f8330-de14-4db5-8844-e84617535665-1769154083839] = [groups:][instances:]
+  element_loading_requirement_container_identifier = a52ee36d-cd33-49c5-9a3c-b9c2db38ec70-1770167798814
+  [loading_requirement_container_meta:a52ee36d-cd33-49c5-9a3c-b9c2db38ec70-1770167798814] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
@@ -107,15 +107,15 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = 324ed704-27cb-4aff-bf93-820488e974db-1769154083839
-  [executable_block:324ed704-27cb-4aff-bf93-820488e974db-1769154083839][type:generic] = [executables:]
+  button_element_executable_block_identifier = 9564fa17-8de5-4dce-a02d-b997fa45892b-1770167798814
+  [executable_block:9564fa17-8de5-4dce-a02d-b997fa45892b-1770167798814][type:generic] = [executables:]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
-  widget_active_state_requirement_container_identifier = c87f0281-e7b4-4cd7-b264-5bb5fd5b0302-1769154083839
-  [loading_requirement_container_meta:c87f0281-e7b4-4cd7-b264-5bb5fd5b0302-1769154083839] = [groups:][instances:]
+  widget_active_state_requirement_container_identifier = 6ef12f15-2830-4636-9983-bd94f524f859-1770167798814
+  [loading_requirement_container_meta:6ef12f15-2830-4636-9983-bd94f524f859-1770167798814] = [groups:][instances:]
   is_template = false
   template_apply_width = false
   template_apply_height = false
@@ -149,8 +149,8 @@ vanilla_button {
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = 9bbd69f9-c0e4-4622-91e1-10e9e97c07f4-1769154083839
-  [loading_requirement_container_meta:9bbd69f9-c0e4-4622-91e1-10e9e97c07f4-1769154083839] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 2153e80f-ff3d-43eb-a697-8d098e3d65c4-1770167798814
+  [loading_requirement_container_meta:2153e80f-ff3d-43eb-a697-8d098e3d65c4-1770167798814] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
