@@ -912,6 +912,11 @@ hash = "e4b25267929cd531859f813aba8da4ab3399692fba035f62195e5d7b89c5b88a"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "e171a4219a5fce5dedd042ebe9b9a8357788f67bbd23569e072b07ac66cefaee"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "72c926dc058b302409024b8ce55cfc5d874ab88c58370848f3cc85d7c2a4153c"
 metafile = true
