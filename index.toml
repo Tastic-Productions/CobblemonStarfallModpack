@@ -243,6 +243,11 @@ hash = "e5ae491ae48f03e46767166444dc6f5202d9878c78dd59df3923372f8b3166a5"
 metafile = true
 
 [[files]]
+file = "mods/cobbledgacha.pw.toml"
+hash = "1aa9a973ccfa116a51f07ff84f9d3d20938ae4d81bfdec9a7284971fe91b229c"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "5e13617f1c616e97698d000a8b733e07318ffe49c9e5d576c34a049a419bd1df"
 metafile = true
