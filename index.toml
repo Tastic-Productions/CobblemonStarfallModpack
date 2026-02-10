@@ -248,6 +248,11 @@ hash = "1aa9a973ccfa116a51f07ff84f9d3d20938ae4d81bfdec9a7284971fe91b229c"
 metafile = true
 
 [[files]]
+file = "mods/cobbleemistuff.pw.toml"
+hash = "1ccfb82c6a056e4d1860f915e2fff974824de924d9ede692832f7b12a41ae433"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "5e13617f1c616e97698d000a8b733e07318ffe49c9e5d576c34a049a419bd1df"
 metafile = true
@@ -345,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemonstarfall-1.0.0.jar"
 hash = "17063e1bb0b03036377090a685cfe600cc8e3966d54151570a630b743a40d72b"
+
+[[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
+metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
@@ -632,6 +642,11 @@ hash = "c32276b9e582eddd8cb2f2a377016dece85dc328ae76c0540b495bb82995611d"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "4eb2893e0995e524464ee59f3d9accc908b239798cbf453766af17de6c9b5552"
 metafile = true
@@ -824,6 +839,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "4e0e919ffac2f0f410bf7635791f3ab106e74d5323389c29ebb84ac453b0cd0f"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cobble EMI Stuff"
+filename = "cobbleemistuff-fabric-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9uOewQZ0/versions/5RWk9hrt/cobbleemistuff-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "3897f3bf7824e3cfa0b3a0568776ab9794641d3e590b39a8fbe62a455c83ad902ede3d0f606608c4352f51829f42b0755c96a5fe97473686679cd6c8efefae63"
+
+[update]
+[update.modrinth]
+mod-id = "9uOewQZ0"
+version = "5RWk9hrt"
