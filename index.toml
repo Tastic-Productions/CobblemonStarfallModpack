@@ -283,6 +283,11 @@ hash = "76d231ee3a7964d04af48f66850575664d67628e9c6823eec52676b40be5129a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-knowlogy.pw.toml"
+hash = "0d87a3e1658587021b36f0cb65c9c60548fd14d54a9abe25c10e84ae8e741f8c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "6be5bd777872a34da83e12df52b6b23d979f57151f254176125bafdcd70538f3"
 metafile = true
@@ -508,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6077ad1b8a481f9270614a8341609ffadf6972b408ba313aaf41e61a81311ec8"
+hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
 metafile = true
 
 [[files]]
@@ -667,6 +672,11 @@ hash = "25f4cf5b02e671100af2d0cb85d42b5297c317413293d50f89f731594e82cf6c"
 metafile = true
 
 [[files]]
+file = "mods/knowlogy.pw.toml"
+hash = "0a91c7983810f6b56127c168b78d3f61031178964e46e143933f3c4c83588670"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "2e926da7ae4a7eb7f5705a8963a4f6164711433a5de256afc86c9dcfdb38e4d9"
 metafile = true
@@ -674,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "236663bdc0c7996d3b6faf3669aaabbb786dc3e343bd1cd9968423b4755df738"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
@@ -863,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "f727d1f4152e4d4047016eeb6a8b8170139c81df4254242986568617bb4ee9be"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
@@ -1049,6 +1064,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "f3f480387c621e30c31c35d0d66cb1500cca43ed73098ce19efa08e2e92177e2"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage-knowlogy.pw.toml"
+hash = "dae8810ba9c661d1a87d5981745666d7bac93e5383526dbfa6397d66c97825b8"
 metafile = true
 
 [[files]]
