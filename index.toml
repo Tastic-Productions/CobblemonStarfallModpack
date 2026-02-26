@@ -263,6 +263,11 @@ hash = "21802e65cb2eed60df855c0a45f390cd4a25bf238e6c987ccb4e67ba235fce2d"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-additions.pw.toml"
+hash = "ade2bd4db7d5a79135cc492d72dbe72e21af5d704dfb88e6dc7622b684da31dd"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-badgebox.pw.toml"
 hash = "c138ee7fdb8468a9de4a513a4f7a90e16decc0d367e8f6b824e6457269f21441"
 metafile = true
