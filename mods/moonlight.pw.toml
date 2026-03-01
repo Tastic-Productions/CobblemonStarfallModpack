@@ -1,16 +1,13 @@
-filename = 'moonlight-1.21-2.29.7-fabric.jar'
-name = 'Moonlight Lib'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Moonlight Lib"
+filename = "moonlight-1.21-2.29.18-fabric.jar"
+side = "both"
 
 [download]
-hash = '47589a64aca8c6a2c0eb6be3d8a90a826aca308761ce8e185ea61de9e4c71af2ccc510aede41492a904004815daa84e3a024c43f0d2d6e04b25574705c3900ee'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/uXRoRBX6/moonlight-1.21-2.29.7-fabric.jar'
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/S33USEw7/moonlight-1.21-2.29.18-fabric.jar"
+hash-format = "sha512"
+hash = "1781de4de3ce2f03ef41bb786634020f3feae4ae53b4c1596e847b03b375405c050c525a25bae2a3a1a7cf9b130b4539ebd20fe73cde22b42fd11d2d7ea73a5a"
 
+[update]
 [update.modrinth]
-mod-id = 'twkfQtEc'
-version = 'uXRoRBX6'
+mod-id = "twkfQtEc"
+version = "S33USEw7"

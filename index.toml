@@ -158,6 +158,11 @@ hash = "3326fb475970c8215720a54f8ad4a11be606d9161240f3abec75dc25acb99d7d"
 metafile = true
 
 [[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "1d1af91a94e0b73686f7d2556659a6e6e4316a3d37315d0d227e0dea661e6720"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e11321322b5c238d0f2bb403fa368aa6b1cd6567641d02a80a81ac89f19fea92"
 metafile = true
@@ -195,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2b428738c16f7461bd84e91a69a6f61ec75bcf6a7905dea41ac8bd3aeba2861f"
+metafile = true
+
+[[files]]
+file = "mods/block-pops.pw.toml"
+hash = "7710f95a54d1c808507026f7530be82e4ddfa42e7f53720128475cf53731375a"
 metafile = true
 
 [[files]]
@@ -412,6 +422,16 @@ hash = "a01bab3c2c4774e932ada76a9bcf2b6859512648e4556cbc40c8a46490039436"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "e27ff19b73147521eff10c9cf0d4d51e36a462d1e67f460ee33287e4356e3fe1"
+metafile = true
+
+[[files]]
+file = "mods/crop-critters.pw.toml"
+hash = "d74c1d501dd460c5a3050fea390fcc400dda0f897c1eaf0f2604bbb37038f3ae"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "ef232d3290cb0f259433dcbc7bd24e8f9ee6f36d1b9d176569faef1ff0ad3abc"
 metafile = true
@@ -512,13 +532,18 @@ hash = "b896126f042b0ae6ee954fd9eef22e698d5bf24197c998a94e43ed600430f0ff"
 metafile = true
 
 [[files]]
+file = "mods/excessive-building.pw.toml"
+hash = "b92dedcea2a3ac58756af01b489995d0dd70db864c9d364ed71ef751ffe06522"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "c45357b0ca4aa1ec9c90e88ae1009e558c2fe112b47b4fc8112042f18f557d30"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
 
 [[files]]
@@ -544,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "7e17bedef3e5448a7b683ed49d8d6b9d917649262784d472021c1af8a41996af"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "63e01963f2d2e5974c0f205c81700c1437fa400b8ab6a6c9ccfd921ed0e0d200"
 metafile = true
 
 [[files]]
@@ -622,6 +652,11 @@ hash = "ecaba19a35384a1b3c8f3cb89b165a65f1f37bbaede16380f2f61129a5a67c51"
 metafile = true
 
 [[files]]
+file = "mods/golem-overhaul.pw.toml"
+hash = "f18043f41634523faed916c0bff4275c114c21e9f3a290bc5f0c91b107fdcd56"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d331d543a1923c4e5c85ba1c2b7c5304e73809cc1fed85671effc976902bc761"
 metafile = true
@@ -669,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "c7613ed9efee1a94b29b77a76c8b8a9007e33c0311b33f339d2dbfa0a9062402"
+metafile = true
+
+[[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "2aa483960df75b01d3a1e08fcce318e53da714d26b0109463721f8eb6c7e062b"
 metafile = true
 
 [[files]]
@@ -838,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c2fa87ea0046d28a222e6eace0d949657254ca48273515d4b0f699fd710c3c30"
+hash = "fda06e889a670d153da171cc91f72b3fd26f9228344dae2e36abd3412e0d4f41"
 metafile = true
 
 [[files]]
@@ -884,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "5c3a927717eaa6cb668e3d5c94f9d5e933fe49d7b26bfbc6acaadfce916bfe91"
 metafile = true
 
 [[files]]
@@ -962,6 +1007,11 @@ hash = "72c926dc058b302409024b8ce55cfc5d874ab88c58370848f3cc85d7c2a4153c"
 metafile = true
 
 [[files]]
+file = "mods/runiclib.pw.toml"
+hash = "1aca624b557d9922edd76d1db34ec323fac8479a79c828e878822c30d5a089b2"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "475e3df71f5d8dc2d539848c86d339a0c5924fc7be82d076676d6364ee282113"
 metafile = true
@@ -1014,6 +1064,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "bf978b9249616986af6b8935085ca76148fcc10bc9916416984171695449acdc"
+metafile = true
+
+[[files]]
+file = "mods/some-more-blocks.pw.toml"
+hash = "340e30c509d4b53fc3ef489280edb58f641f75c7e50d5bdc2f20c35890d3d0e2"
 metafile = true
 
 [[files]]
@@ -1119,6 +1174,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "4a5b69374ab2a8b70a2d045bcfa3c99cab8c8bb31429b7116a3a1c3440cd8a7d"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
 metafile = true
 
 [[files]]

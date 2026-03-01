@@ -1,0 +1,13 @@
+name = "Block Pops"
+filename = "BlockPops - Fabric - 1.21.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u1JjJR7q/versions/w6nO8EXc/BlockPops%20-%20Fabric%20-%201.21.1-1.4.2.jar"
+hash-format = "sha512"
+hash = "dc1546dfa16a3839c2ee5973958342a3501dff5f49854f1d3572b2f395990d094546d484f427198805812bc36f24ea44a6cb3eedc420cb8b0d111f145266be71"
+
+[update]
+[update.modrinth]
+mod-id = "u1JjJR7q"
+version = "w6nO8EXc"

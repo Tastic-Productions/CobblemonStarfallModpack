@@ -1,0 +1,13 @@
+name = "RunicLib"
+filename = "fabric-runiclib-1.21.1-5.0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mk0Htq87/versions/BL4pXwiZ/fabric-runiclib-1.21.1-5.0.5.1.jar"
+hash-format = "sha512"
+hash = "b775f5f65f060c416d91b476f6d83cca4ab96a93a2ba04101b3313d1ee4854d7fd245a7c6e32b377f009793c66d77fddb92e8791fc59ab0bd574802e304bc505"
+
+[update]
+[update.modrinth]
+mod-id = "mk0Htq87"
+version = "BL4pXwiZ"

@@ -1,0 +1,13 @@
+name = "Crop Critters"
+filename = "cropcritters-fabric-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5u8twXEK/versions/b8HYGpDd/cropcritters-fabric-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "afe883d70b161542a2bba726086d4aafbdd7980402b4438f2461d0273847c1d98827af116fb62110c8ccec3681fef7d874eb0fb87c6fd69abdd353b47b08660f"
+
+[update]
+[update.modrinth]
+mod-id = "5u8twXEK"
+version = "b8HYGpDd"
