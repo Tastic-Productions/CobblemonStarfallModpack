@@ -223,6 +223,11 @@ hash = "a29a22cd583edcd3b01f45e6b6734e0a5bac325681965e6dc37a07c863cf488b"
 metafile = true
 
 [[files]]
+file = "mods/certain-questing-additions.pw.toml"
+hash = "d5cc72632d48618340613be807021863c12e0abb7dd4a3caef1593baa1ea49e5"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "62efc3632b71e26e65bbae1c49fb84a2ddebb9a797c05675e017321eb797991b"
 metafile = true
@@ -1089,6 +1094,11 @@ metafile = true
 [[files]]
 file = "mods/spuds-shops.pw.toml"
 hash = "687c34c031cf5cf3dfb03e7c36a7132258ccb2ad8e662292c0c5a115a4f745f9"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "8422169d2735d32fe9dca222d4c939a4defaf8ee708a88cf5907f8c541ce1159"
 metafile = true
 
 [[files]]
