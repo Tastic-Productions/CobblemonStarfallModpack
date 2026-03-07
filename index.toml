@@ -952,6 +952,11 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/particle-effects.pw.toml"
 hash = "5c3a927717eaa6cb668e3d5c94f9d5e933fe49d7b26bfbc6acaadfce916bfe91"
 metafile = true
