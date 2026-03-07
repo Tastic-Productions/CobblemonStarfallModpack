@@ -442,6 +442,11 @@ hash = "ef232d3290cb0f259433dcbc7bd24e8f9ee6f36d1b9d176569faef1ff0ad3abc"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "afe864fddfbf53a2bf3cd2aa3815a5281b60d1e3aed34a5e3fe0cf963191b04f"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "8e3e7448ffb3c224eec7ec038f2a346be4735e92022d6bf853861c5b5bdc52f3"
 metafile = true
@@ -537,6 +542,11 @@ hash = "b896126f042b0ae6ee954fd9eef22e698d5bf24197c998a94e43ed600430f0ff"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "3849429aef767a4d7b958e093620dcbda93ba3567f5b3c4735378e010d293ac3"
+metafile = true
+
+[[files]]
 file = "mods/excessive-building.pw.toml"
 hash = "b92dedcea2a3ac58756af01b489995d0dd70db864c9d364ed71ef751ffe06522"
 metafile = true
@@ -564,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "0246457f1e388df96f9fed0a4ab88f6debadb14666a4956188c26b144dcf9489"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "a1d5fa4cd13ba5aea50ce6d3615ee8c1710881913ba9f8c4c72777cc572eda95"
 metafile = true
 
 [[files]]
@@ -892,6 +907,11 @@ hash = "10df4e518d493d2cf2180bfac4aed5599b68bbd05ea163132efdcbc2cca8f7a2"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "f1a7bff7a5ed9e9f88a02786b33737a99852a5e4f5e6c05b6269a63daf9f1e72"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "91764a5da09ae893ffefd6a001e66533cdb90f34decb8bde740ac4b350ab32d1"
 metafile = true
@@ -1017,6 +1037,11 @@ hash = "1aca624b557d9922edd76d1db34ec323fac8479a79c828e878822c30d5a089b2"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "3df4554d4c42553186d2bec83ba10ec8d4c1f34122c60b3fa150370227469912"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "475e3df71f5d8dc2d539848c86d339a0c5924fc7be82d076676d6364ee282113"
 metafile = true
@@ -1084,6 +1109,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "618a75dcc32bf3e9d550d64a17a22d1c45e0a686e4f8c90a3aa97651fee2c738"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "f2feec4a404ea1ebff1cbc8ef801d074fc8c4a528af064fd9c125f5c9e57c824"
 metafile = true
 
 [[files]]
