@@ -213,6 +213,11 @@ hash = "5c657f1ef0a736c0ed94fdb87be6d27d3a426e0400fbd7a4f417cfb1b6b8febd"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
+metafile = true
+
+[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "c316ca8b17ffc1951e9f4222c8c34a2e6fa82a1207e81320cd8cd159830d5507"
 metafile = true
@@ -442,8 +447,18 @@ hash = "ef232d3290cb0f259433dcbc7bd24e8f9ee6f36d1b9d176569faef1ff0ad3abc"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "afe864fddfbf53a2bf3cd2aa3815a5281b60d1e3aed34a5e3fe0cf963191b04f"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
@@ -479,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "6e661acd36258fb90f0607f508cda448c3e48c98d8ab2eacfa4838737994067d"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -682,6 +702,11 @@ hash = "d331d543a1923c4e5c85ba1c2b7c5304e73809cc1fed85671effc976902bc761"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
+metafile = true
+
+[[files]]
 file = "mods/immersive-hotbar.pw.toml"
 hash = "df86935b2c3c32e7ae31aa12dd9438382ee53cff4c04e7d134696aec432c17f6"
 metafile = true
@@ -744,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "2e926da7ae4a7eb7f5705a8963a4f6164711433a5de256afc86c9dcfdb38e4d9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
@@ -947,6 +977,11 @@ hash = "d0c307a5ec33183679f6827be8389e6fc42d57d9594c89fec9f841606a5a522b"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
+metafile = true
+
+[[files]]
 file = "mods/onair.pw.toml"
 hash = "42b714de151bb37be6e030bd45ef3bd2fcefa85455aa730c9d4e5dce07eb3bbf"
 metafile = true
@@ -1009,6 +1044,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "49a207f5edc5259f55667aa6db72eeffb2f3c80a0989ad71e82258112544222f"
+metafile = true
+
+[[files]]
+file = "mods/reciperemover.pw.toml"
+hash = "a2b58087b311c57f576d089591b31827e5ae250cd91f66f4213a02f55f9d686d"
 metafile = true
 
 [[files]]
