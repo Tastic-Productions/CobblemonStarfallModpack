@@ -1197,6 +1197,16 @@ hash = "09863c8b7c45c1cc54fc7a989ff4418b2fc91ef8980f6e83be319756cc1c0436"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-knowlogy.pw.toml"
+hash = "f6e079c50c72ae3339f81730849f3c8d449c1ac3847a7f1605a4200872ace187"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "a0ff1e6d6842d3508510d29d97d1fbf8ef0f6b4c2b7b0a874cba1ba3c7021b90"
+metafile = true
+
+[[files]]
 file = "mods/talk-balloons.pw.toml"
 hash = "4e32d850878457b2299f65fc58a27819ffdcde7a75ba4174019a4e240b68b1d4"
 metafile = true
