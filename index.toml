@@ -1017,6 +1017,11 @@ hash = "1b80cd929622398caff458cbc2cb06e97ce44c7721a7fc8904c6bfc6b6e23968"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "10238f8ae3b18160abd09bee959ef7f4e856d9cc401489ec95cefb2f531048d3"
+metafile = true
+
+[[files]]
 file = "mods/player-ladder.pw.toml"
 hash = "4dad191fd806de9761deeb2ae0f277872b03fcde7e29731a1eeaf7567f59840f"
 metafile = true
@@ -1279,6 +1284,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "bc0d1ea3cca663a27bff40733726dc9dfdbfe43cc8ee41db58dde3eacd329962"
 metafile = true
 
 [[files]]
