@@ -298,6 +298,11 @@ hash = "2a58e62c1d096d54ec1c9c63cce7af2ae20e2981647a6c4cdfc47e8be4bde14b"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-counter.pw.toml"
+hash = "83c4faf795642c4f58b270a1c748a42b92838501dd8e63fb8a18aa7bb133c904"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-effectiveness.pw.toml"
 hash = "5718cedad9cd19a753209cd2682d06d7825d894fedba3931e9795c8789623440"
 metafile = true
