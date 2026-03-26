@@ -577,6 +577,11 @@ hash = "b92dedcea2a3ac58756af01b489995d0dd70db864c9d364ed71ef751ffe06522"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "9642962bbcc8bfd0fc299df9858ba7e9ff8d25a6d69a6df976577d9cb219f442"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "c45357b0ca4aa1ec9c90e88ae1009e558c2fe112b47b4fc8112042f18f557d30"
 metafile = true
