@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "4f303a70ebce22adbd2ea8dc6b1bf3d03d528fb54e4c664e914c4e2c9f0f04c7"
+hash = "6d39ee31d3dcc2f6989b17c4146f24d74272ea3c7731f9e1ae926940b46694d8"
 metafile = true
 
 [[files]]
@@ -989,6 +989,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "d0c307a5ec33183679f6827be8389e6fc42d57d9594c89fec9f841606a5a522b"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "fa28010fe3ba32b1f3e9aed4c432c359ebc54cfbf03196961c66461597f4188c"
 metafile = true
 
 [[files]]

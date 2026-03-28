@@ -1,16 +1,13 @@
-filename = 'cobblemonraiddens-fabric-0.6.4+1.21.1.jar'
-name = 'Cobblemon Raid Dens'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Cobblemon Raid Dens"
+filename = "cobblemonraiddens-fabric-0.9.1+1.21.1.jar"
+side = "both"
 
 [download]
-hash = '46c4f62181da6e4fab84cf46fd3db9f16a09ca960ecd41d6db696f67869fd0705cdd49c5b5f3a5234551920bfba75058fb3c294f6a3738632d74c60a6218aae6'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/GebWh45l/versions/7LHXezdX/cobblemonraiddens-fabric-0.6.4%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/GebWh45l/versions/MFjXsIjj/cobblemonraiddens-fabric-0.9.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "174b93f12c77876e14348295caef4a02e4654ef98bdd2ece811e1e4a04f89d95e08eff3858a296f068674cf333db1ee270f4e95f9571782b213f788d414d6eb1"
 
+[update]
 [update.modrinth]
-mod-id = 'GebWh45l'
-version = '7LHXezdX'
+mod-id = "GebWh45l"
+version = "MFjXsIjj"
